@@ -1,0 +1,13 @@
+img:hover {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+
+p:hover {
+    color: red;
+}
+
+h3:hover {
+    color: maroon;
+}
